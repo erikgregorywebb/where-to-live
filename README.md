@@ -1,24 +1,22 @@
 ## Where to Live
 
 ### 1. Affordabiltiy 
-*Housing* <br>
-**Median Rent** <br>
+#### Housing <br>
+*Median Rent* <br>
 Source: [Experian](https://www.experian.com/blogs/ask-experian/research/median-rental-rates-for-an-apartment-by-state/) (2019)
 
-*Housing* <br>
-**Median Home Value** <br>
+*Median Home Value* <br>
 Source: [Experian](https://www.experian.com/blogs/ask-experian/research/median-home-values-by-state/) (2019)
 
-*Cost of Living*
-**Value of a Dollar** <br>
+#### Cost of Living <br>
+*Value of a Dollar* <br>
 https://www.usatoday.com/story/money/2019/05/25/us-dollar-how-much-its-worth-value-in-every-state/39501091/
 
-*Taxes* <br>
-**State Tax Rate** <br>
+#### Taxes <br>
+*State Tax Rate* <br>
 Source: [Tax Foundation](https://taxfoundation.org/2020-sales-taxes/) (2020)
 
-*Taxes* <br>
-**Average Local Tax Rate** <br>
+*Average Local Tax Rate* <br>
 Source: [Tax Foundation](https://taxfoundation.org/2020-sales-taxes/) (2020)
 
 ### 2. Crime
