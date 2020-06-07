@@ -1,25 +1,25 @@
 ## Where to Live
 
-### 1. Cost of Living
-*Housing*
-Median Rent
-Source: 
+### 1. Affordabiltiy 
+*Housing* <br>
+**Median Rent** <br>
+Source: [Experian](https://www.experian.com/blogs/ask-experian/research/median-rental-rates-for-an-apartment-by-state/) (2019)
 
-*Housing*
-Median Home Value
-Source:
+*Housing* <br>
+**Median Home Value** <br>
+Source: [Experian](https://www.experian.com/blogs/ask-experian/research/median-home-values-by-state/) (2019)
 
-Groceries / Healthcare / Gas / Utilities (Consumer Price Index)
+*Cost of Living*
+**Value of a Dollar** <br>
+https://www.usatoday.com/story/money/2019/05/25/us-dollar-how-much-its-worth-value-in-every-state/39501091/
 
-Gallon of Milk or Gallon of Gas
+*Taxes* <br>
+**State Tax Rate** <br>
+Source: [Tax Foundation](https://taxfoundation.org/2020-sales-taxes/) (2020)
 
-*Taxes*
-State Tax Rate
-Source: [Tax Foundation](https://taxfoundation.org/2020-sales-taxes/)
-
-*Taxes*
-Sales Tax Rate
-Source: [Tax Foundation](https://taxfoundation.org/2020-sales-taxes/)
+*Taxes* <br>
+**Average Local Tax Rate** <br>
+Source: [Tax Foundation](https://taxfoundation.org/2020-sales-taxes/) (2020)
 
 ### 2. Crime
 Violent Crime: # of violent crimes per capita
