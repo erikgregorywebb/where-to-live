@@ -47,7 +47,7 @@ Growth Rate
 % services vs manufacturing
 
 ### 6. Social & Culture
-# of Sports Teams
+Number of Sports Teams
 Availability of stores
 
 ### 7. Climate
@@ -56,6 +56,9 @@ Average days of sun/rain each year
 Natural disasters 
 
 ### 8. Demographics
+*Population* <br>
+Source: [Wikipedia] (https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States) (2019)
+
 Median Age
 Median Household Income
 Population % Change
@@ -63,5 +66,5 @@ Average Education Level
 Poverty Rate
 
 ### Other
-State Capital
+State Capital <br>
 Largest City
