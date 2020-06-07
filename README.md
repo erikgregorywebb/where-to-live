@@ -48,34 +48,34 @@ Source: [National Education Association](https://www.nea.org/assets/docs/180413-
 Source: [National Education Association](https://www.nea.org/assets/docs/180413-Rankings_And_Estimates_Report_2018.pdf) (2018)
 
 ### 4. Transportation
-Traffic
-Public Transportation
-Proximity to Airport
+Traffic <br>
+Public Transportation <br>
+Proximity to Airport <br>
 
 ### 5. Economy
-Unemployment Rate
-New Jobs Added
-Growth Rate
-% services vs manufacturing
+Unemployment Rate <br>
+New Jobs Added <br>
+Growth Rate <br>
+% services vs manufacturing <br>
 
 ### 6. Social & Culture
-Number of Sports Teams
-Availability of stores
+Number of Sports Teams <br>
+Availability of stores <br>
 
 ### 7. Climate
-Average temperature
-Average days of sun/rain each year
-Natural disasters 
+Average temperature <br>
+Average days of sun/rain each year <br>
+Natural disasters <br>
 
 ### 8. Demographics
 *Population* <br>
 Source: [Wikipedia] (https://en.wikipedia.org/wiki/List_of_states_and_territories_of_the_United_States) (2019)
 
-Median Age
-Median Household Income
-Population % Change
-Average Education Level
-Poverty Rate
+Median Age <br>
+Median Household Income <br>
+Population % Change <br>
+Average Education Level <br>
+Poverty Rate <br>
 
 ### Other
 State Capital <br>
