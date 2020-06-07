@@ -36,13 +36,16 @@ Source: [Wikipedia (US Department of Justice)](https://en.wikipedia.org/wiki/Lis
 Source: [World Population Review](https://worldpopulationreview.com/states/high-school-graduation-rates-by-state/) (2016)
 
 *Average ACT Score* (Participation Rate Adjusted) <br>
-Source: [Prep Scholar](https://blog.prepscholar.com/average-sat-and-act-scores-by-stated-adjusted-for-participation-rate)
+Source: [Prep Scholar](https://blog.prepscholar.com/average-sat-and-act-scores-by-stated-adjusted-for-participation-rate) (2016)
 
 *Average SAT Score* (Participation Rate Adjusted) <br>
-Source: [Prep Scholar](https://blog.prepscholar.com/average-sat-and-act-scores-by-stated-adjusted-for-participation-rate)
+Source: [Prep Scholar](https://blog.prepscholar.com/average-sat-and-act-scores-by-stated-adjusted-for-participation-rate) (2016)
 
 *Teacher-Student Ratio* <br>
-Source: []()
+Source: [National Education Association](https://www.nea.org/assets/docs/180413-Rankings_And_Estimates_Report_2018.pdf) (2018)
+
+*Teacher Salary* <br>
+Source: [National Education Association](https://www.nea.org/assets/docs/180413-Rankings_And_Estimates_Report_2018.pdf) (2018)
 
 ### 4. Transportation
 Traffic
