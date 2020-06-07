@@ -31,9 +31,18 @@ Source: [Uniform Crime Reporting Statistics](https://www.ucrdatatool.gov/Search/
 Source: [Wikipedia (US Department of Justice)](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_incarceration_and_correctional_supervision_rate) (2016)
 
 ### 3. Education
-Graduation Rates: Average Graduation Rate
-Test Scores: Average Test Scores (e.g. ACT / SAT)
-Teacher-Student Ratio
+
+*Graduation Rates* <br>
+Source: [World Population Review](https://worldpopulationreview.com/states/high-school-graduation-rates-by-state/) (2016)
+
+*Average ACT Score* (Participation Rate Adjusted) <br>
+Source: [Prep Scholar](https://blog.prepscholar.com/average-sat-and-act-scores-by-stated-adjusted-for-participation-rate)
+
+*Average SAT Score* (Participation Rate Adjusted) <br>
+Source: [Prep Scholar](https://blog.prepscholar.com/average-sat-and-act-scores-by-stated-adjusted-for-participation-rate)
+
+*Teacher-Student Ratio* <br>
+Source: []()
 
 ### 4. Transportation
 Traffic
