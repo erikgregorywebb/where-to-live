@@ -21,11 +21,14 @@ Source: [Tax Foundation](https://taxfoundation.org/2020-sales-taxes/) (2020)
 
 ### 2. Crime
 
-**Violent Crime** <br>
-*Homicide rate* (Homicide deaths per 100,000) <br>
+*Homicide Rate* (Homicide deaths per 100,000) <br>
 Source: [Wikipedia (FBI Uniform Crime Reports)](https://en.wikipedia.org/wiki/List_of_U.S._states_by_homicide_rate) (2018)
 
-**Non-Violent Crime**
+*Property Crime Rate* <br>
+Source: [Uniform Crime Reporting Statistics](https://www.ucrdatatool.gov/Search/Crime/State/RunCrimeStatebyState.cfm)
+
+*Incarceration Rate* <br>
+Source: [Wikipedia (US Department of Justice)](https://en.wikipedia.org/wiki/List_of_U.S._states_and_territories_by_incarceration_and_correctional_supervision_rate) (2016)
 
 ### 3. Education
 Graduation Rates: Average Graduation Rate
@@ -57,3 +60,8 @@ Median Age
 Median Household Income
 Population % Change
 Average Education Level
+Poverty Rate
+
+### Other
+State Capital
+Largest City
