@@ -3,10 +3,10 @@
 ### 1. Affordabiltiy 
 **Housing** <br>
 *Median Rent* <br>
-Source: [Experian](https://www.experian.com/blogs/ask-experian/research/median-rental-rates-for-an-apartment-by-state/) (2019)
+Source: [Experian (Zillow)](https://www.experian.com/blogs/ask-experian/research/median-rental-rates-for-an-apartment-by-state/) (2019)
 
 *Median Home Value* <br>
-Source: [Experian](https://www.experian.com/blogs/ask-experian/research/median-home-values-by-state/) (2019)
+Source: [Experian (Zillow)](https://www.experian.com/blogs/ask-experian/research/median-home-values-by-state/) (2019)
 
 **Cost of Living** <br>
 *Value of a Dollar* <br>
@@ -23,7 +23,7 @@ Source: [Tax Foundation](https://taxfoundation.org/2020-sales-taxes/) (2020)
 
 **Violent Crime** <br>
 *Homicide rate* (Homicide deaths per 100,000) <br>
-Source: [Wikipedia - FBI Uniform Crime Reports](https://en.wikipedia.org/wiki/List_of_U.S._states_by_homicide_rate) (2018)
+Source: [Wikipedia (FBI Uniform Crime Reports)](https://en.wikipedia.org/wiki/List_of_U.S._states_by_homicide_rate) (2018)
 
 **Non-Violent Crime**
 
