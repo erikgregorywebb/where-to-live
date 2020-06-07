@@ -44,11 +44,14 @@ Source: [Prep Scholar](https://blog.prepscholar.com/average-sat-and-act-scores-b
 *Teacher-Student Ratio* <br>
 Source: [National Education Association](https://www.nea.org/assets/docs/180413-Rankings_And_Estimates_Report_2018.pdf) (2018)
 
-*Teacher Salary* <br>
+*Teacher Salaries* <br>
 Source: [National Education Association](https://www.nea.org/assets/docs/180413-Rankings_And_Estimates_Report_2018.pdf) (2018)
 
 ### 4. Transportation
-Traffic <br>
+
+*Commute Time* <br>
+Source: [index Mundi](https://www.indexmundi.com/facts/united-states/quick-facts/all-states/average-commute-time#table) (2018)
+
 Public Transportation <br>
 Proximity to Airport <br>
 
