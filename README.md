@@ -52,13 +52,19 @@ Source: [National Education Association](https://www.nea.org/assets/docs/180413-
 *Commute Time* <br>
 Source: [index Mundi](https://www.indexmundi.com/facts/united-states/quick-facts/all-states/average-commute-time#table) (2018)
 
-Public Transportation <br>
-Proximity to Airport <br>
+Other Ideas <br>
+- Public Transportation <br>
+- Proximity to Airport <br>
 
 ### 5. Economy
-Unemployment Rate <br>
+
+*Unemployment Rate* (April 2019, Seasonally Adjusted)<br>
+Source: [U.S. Bureau of Labor Statistics](https://data.bls.gov/lausmap/showMap.jsp;jsessionid=63F0B44FF33FF3AD512ABCD1F7927FF4._t3_07v)
+
+*GDP Growth Rate* <br>
+Source: [U.S. Bureau of Economic Analysis](https://www.bea.gov/data/gdp/gdp-state)
+
 New Jobs Added <br>
-Growth Rate <br>
 % services vs manufacturing <br>
 
 ### 6. Social & Culture
